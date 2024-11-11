@@ -1,6 +1,5 @@
 # SQL---Challenge
 
-Here’s a more concise version of the `README.md` file:
 
 ---
 
